@@ -11,7 +11,7 @@ Besides, I also spend time actively participating in nonprofits, such as [Sailow
 ## Professionally, I use
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" alt="Python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" title="Python" alt="Python logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" height="40" width="52" alt ="Poetry logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="52" alt ="Fastapi logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="52" alt ="PostgreSQL logo" />
@@ -54,8 +54,10 @@ Besides, I also spend time actively participating in nonprofits, such as [Sailow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" width="52" alt ="Pycharm logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="52" alt ="Notion logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="52" alt ="Figma logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" width="52" alt ="Canva logo" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" height="40" width="52" alt ="Photoshop logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" width="52" alt ="Photoshop logo" />
+<img src=https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg height="40" width="52" alt ="DaVinci Resolve logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="52" alt ="Linux logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" width="52" alt ="Jupyter logo" />
 </div>
