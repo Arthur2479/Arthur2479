@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arthur2479.Arthur2479&left_color=%231b708a&right_color=%232fb4b6&left_text=Visitors%20since%2020/09/2024)
 
-I'm Arthur, a student, photographer and freelance developer. I develop softwares and enjoy creative coding.
+I'm Arthur, a student, photographer and freelance developer. I [develop softwares](https://github.com/Arthur2479/private-repos-overview) and enjoy creative coding.
 
 Besides, I also spend time actively participating in nonprofits, such as [Sailowtech](https://github.com/Sailowtech).
 
@@ -69,6 +69,5 @@ Besides, I also spend time actively participating in nonprofits, such as [Sailow
 <a href="mailto:contact@arthurjacobs.ch"><img src="https://img.shields.io/badge/Email-contact@arthurjacobs.ch-blue?style=flat&logo=gmail&logoColor=white&color=%232fb4b6&labelColor=%231b708a" /></a>
 <a href="https://www.linkedin.com/in/arthurjacobs/"><img src="https://img.shields.io/badge/LinkedIn-arthurjacobs-blue?style=flat&logo=linkedin&logoColor=white&color=%232fb4b6&labelColor=%231b708a" /></a>
 <a href="https://t.me/Arthur2479"><img src="https://img.shields.io/badge/Telegram-Arthur2479-blue?style=flat&logo=telegram&logoColor=white&color=%232fb4b6&labelColor=%231b708a" /></a>
-<!-- Coming soon : portfolio 
-<a href="https://arthurjacobs.ch"><img src="https://img.shields.io/badge/Portfolio-arthurjacobs.ch-blue?style=flat&logo=adobelightroom&logoColor=white&color=%232fb4b6&labelColor=%231b708a" /></a>
--->
+<a href="https://arthurjacobs.ch/portfolio"><img src="https://img.shields.io/badge/Photo portfolio-arthurjacobs.ch/portfolio-blue?style=flat&logo=adobelightroom&logoColor=white&color=%232fb4b6&labelColor=%231b708a" /></a>
+
