@@ -8,7 +8,7 @@ I'm Arthur, a student, photographer and freelance developer. I [develop software
 
 Besides, I also spend time actively participating in nonprofits, such as [Sailowtech](https://github.com/Sailowtech).
 
-### Professionally, I use
+### I work with
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" title="Python" alt="Python logo" />
