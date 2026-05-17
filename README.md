@@ -8,7 +8,7 @@ I'm Arthur, a student, photographer and freelance developer. I [develop software
 
 Besides, I also spend time actively participating in nonprofits, such as [Sailowtech](https://github.com/Sailowtech).
 
-## Professionally, I use
+### Professionally, I use
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" title="Python" alt="Python logo" />
@@ -21,9 +21,15 @@ Besides, I also spend time actively participating in nonprofits, such as [Sailow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="52" title="C++" alt ="C++ logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" width="52" title="C" alt ="C logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" height="40" width="52" title="Gherkin / Cucumber" alt ="Cucumber logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+height="40" width="52" title="Angular" alt ="Angular logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" width="52" title="NestJS" alt="NestJS logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="52" title="Docker" alt ="Docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40" width="52" title="UML" alt ="UML logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/3840px-Qiskit-Logo.svg.png" height="40" width="40" title="Qiskit" alt="Qiskit logo" />
 </div>
 
-## Recreationally, I use
+### Recreationally, I use
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="52" title="Javascript" alt ="Javascript logo" />
@@ -34,13 +40,11 @@ Besides, I also spend time actively participating in nonprofits, such as [Sailow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="52" title="MySQL" alt ="MySQL logo" />
 </div>
 
-## Currently, I am learning
+### I know the basics of
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="52" title="Java" alt ="Java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" width="52" title="R" alt ="R logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="52" title="Docker" alt ="Docker logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40" width="52" title="UML" alt ="UML logo" />
 </div>
 
 <!-- Hey you ! If you're reading this, here's what I'm planning on learning next :
@@ -49,11 +53,13 @@ Besides, I also spend time actively participating in nonprofits, such as [Sailow
 
 -->
 
-## Tools I use
+### Tools I use
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="52" title="GitHub" alt ="GitHub logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" width="52" title="GitLab" alt="GitLab logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" width="52" title="JetBrains Pycharm" alt ="Pycharm logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="52" title="VS Code" alt="VS Code logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="52" title="Notion" alt ="Notion logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="52" title="Figma" alt ="Figma logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" width="52" title="Canva" alt ="Canva logo" />
@@ -62,6 +68,7 @@ Besides, I also spend time actively participating in nonprofits, such as [Sailow
 <img src=https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg height="40" width="52" title="DaVinci Resolve" alt ="DaVinci Resolve logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="52" title="Linux" alt ="Linux logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" width="52" title="Jupyter" alt ="Jupyter logo" />
+<svg height="40" width="40" role="img" aria-label="Claude logo" title="Claude" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 600 600"><title>Claude</title><path fill="#D97757" fill-rule="evenodd" d="M525 273.7h75v77.6h-75V427h-37.2v73H450v-73h-37.2v73H375v-73H225v73h-37.8v-73H150v73h-37.8v-73H75v-75.7H0v-77.6h75V125h450zm-375 0h37.2v-71.1H150zm262.8 0H450v-71.1h-37.2z" clip-rule="evenodd" /></svg>
 </div>
 
 ## Get in touch / more details
